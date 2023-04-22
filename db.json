@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "name": "Vineet Mourya",
+      "email": "vemr1899@gmail.com",
+      "username": "VM21",
+      "mobile": "8052298500",
+      "rolekey": "Senior Associate",
+      "password": "vm1234",
+      "id": 1
+    },
+    {
+      "name": "Jhon Wick",
+      "email": "jhon32@gmail.com",
+      "username": "JH32",
+      "mobile": "8907654123",
+      "rolekey": "Associate",
+      "password": "jh56",
+      "id": 2
+    },
+    {
+      "name": "Vijay Kumar",
+      "email": "vkumar12@gmail.com",
+      "username": "VK12",
+      "mobile": "0987654321",
+      "rolekey": "Associate",
+      "password": "vk1234",
+      "id": 4
+    }
+  ],
+  "role": [
+    {
+      "id": 1,
+      "roleLabel": "Senior Associate",
+      "rolekey": "React"
+    },
+    {
+      "id": 2,
+      "roleLabel": "Associate",
+      "rolekey": "Reactjs"
+    },
+    {
+      "roleLabel": "Senior Associate",
+      "rolekey": "JavaScript",
+      "id": 3
+    }
+  ]
+}

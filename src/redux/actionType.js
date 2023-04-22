@@ -1,0 +1,10 @@
+export const GET_USERS = "GET_USERS";
+export const GET_SINGLE_USER = "GET_SINGLE_USER";
+export const GET_ROLES = "GET_ROLES";
+export const GET_SINGLE_ROLE = "GET_SINGLE_ROLE";
+export const DELETE_USER = "DELETE_USER";
+export const DELETE_ROLE = "DELETE_ROLE";
+export const ADD_USER = "ADD_USER";
+export const ADD_ROLE = "ADD_ROLE";
+export const UPDATE_USER = "UPDATE_USER";
+export const UPDATE_ROLE = "UPDATE_ROLE";
