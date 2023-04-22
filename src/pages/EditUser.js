@@ -140,7 +140,7 @@ const EditUser = (props) => {
             name="password" 
             label='Password' 
             value={password || ""} 
-            type='text' 
+            type="password" 
             onChange={handleInputChange} 
             />
             <br />
