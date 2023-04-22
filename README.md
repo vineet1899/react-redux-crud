@@ -1,4 +1,4 @@
-# React ReduxToolkit CRUD APP
+# React Redux CRUD APP
 
 complete source of CRUD APP React ReduxToolkit Material-UI 
 
